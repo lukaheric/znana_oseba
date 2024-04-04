@@ -1,0 +1,2 @@
+# znana_oseba
+ncjerovjce
