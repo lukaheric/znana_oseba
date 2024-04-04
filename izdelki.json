@@ -1,0 +1,22 @@
+[
+    {
+        "slika" : "test.jpg",
+        "ime" : "majica1",
+        "cena" : 12
+    },
+    {
+        "slika" : "test.jpg",
+        "ime" : "majic2a1",
+        "cena" : 12
+    },
+    {
+        "slika" : "test.jpg",
+        "ime" : "majica41",
+        "cena" : 12
+    },
+    {
+        "slika" : "test.jpg",
+        "ime" : "majica31",
+        "cena" : 12
+    }
+]
